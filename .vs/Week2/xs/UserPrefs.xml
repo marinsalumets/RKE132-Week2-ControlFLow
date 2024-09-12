@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{4E448C1B-60BC-4DA1-A221-5B184EFA319D}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.UserAgeValidation1 FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Week2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Week2" expanded="True">
+            <Node name="UserAgeValidation1" expanded="True" selected="True" />
+            <Node name="UserGenderValidation" expanded="True" />
+            <Node name="Week2" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.UserGenderValidation PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
